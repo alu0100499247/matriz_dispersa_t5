@@ -1,4 +1,4 @@
-Práctica de Laboratorio **#9**. Creación de Gema     [![Build Status](https://travis-ci.org/alu0100499247/prac9.png)](https://travis-ci.org/alu0100499247/prac9) 
+Práctica de Laboratorio **#9**. Creación de Gema     [![Build Status](https://travis-ci.org/alu0100499247/matriz_dispersa_t5.png)](https://travis-ci.org/alu0100499247/matriz_dispersa_t5) 
 ==========================================================================================================
 
 Considere el desarrollo de una aplicación que contemple la creación de Matrices. Se ha de utilizar una representación para matrices densas y otra diferente para matrices dispersas. Una matriz se considerará dispersa si tiene más de un 60% de ceros. Se ha de establecer una relación de herencia entre las clases que se utilicen para su representación. Las operaciones básicas con matrices son diferentes en cada caso.
